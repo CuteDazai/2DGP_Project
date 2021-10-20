@@ -30,9 +30,4 @@ def draw():
     background.draw()
     update_canvas()
 
-open_canvas(807, 505)
-enter()
-draw()
-delay(10)
-exit()
-close_canvas()
+
